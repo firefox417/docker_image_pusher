@@ -1,1 +1,2 @@
 cloudflare/cloudflared:latest
+wukongdaily/box:latest
