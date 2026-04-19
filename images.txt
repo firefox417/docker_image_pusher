@@ -1,2 +1,3 @@
 lampon/omnibox:latest
 ghcr.io/mtvpls/moontvplus:latest
+ghcr.io/xcq0607/lxserver:latest
