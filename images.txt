@@ -25,3 +25,4 @@ renxia/m3u8-dl
 wbsu2003/lx-music-sync-server
 wordpress
 wu529778790/panhub.shenzjd.com
+qqt8520/iptv-pro
