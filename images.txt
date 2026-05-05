@@ -1,3 +1,4 @@
+qqt8520/iptv-pro:1.0
 aceberg/watchyourports
 cloudflare/cloudflared
 docker.cnb.cool/btpanel/btpanel
