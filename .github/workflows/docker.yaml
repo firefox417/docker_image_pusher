@@ -1,12 +1,12 @@
 name: Docker
 
-on:
+于:
   workflow_dispatch:
   push:
-    branches: [ main ]
+    分支: [ main ]
   schedule:
-    # 定时任务：每天凌晨1点执行
-    - cron: '0 1 * * *'
+    # 定时任务：每天凌晨14点执行
+    - cron: '0 14 * * *'
 
 env:
   ALIYUN_REGISTRY: "${{ secrets.ALIYUN_REGISTRY }}"
