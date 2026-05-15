@@ -1,11 +1,11 @@
 name: Docker
 
-于:
+on:
   workflow_dispatch:
   push:
-    分支: [ main ]
+    branches: [ main ]
   schedule:
-    # 定时任务：每天凌晨14点执行
+    # 定时任务：每天14点执行
     - cron: '0 14 * * *'
 
 env:
