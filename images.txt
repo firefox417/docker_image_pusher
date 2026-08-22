@@ -29,4 +29,3 @@ qqt8520/iptv-pro:1.0
 
 mysql
 redis
-plexinc/pms-docker
