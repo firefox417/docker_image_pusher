@@ -2,7 +2,6 @@ moelin/1panel
 lyswhut/any-listen-web-server
 p3terx/aria2-pro
 p3terx/ariang
-docker.cnb.cool/btpanel/btpanel
 logvar/danmu-api
 gitea/gitea
 gdy666/lucky:v3
