@@ -1,1 +1,2 @@
-lampon/omnibox:v3.2.1-beta.1
+--platform=v3.2.1 lampon/omnibox:v3.2.1-beta.1
+--platform=v2.1.4.1 lampon/omnibox:latest
