@@ -1,1 +1,1 @@
-lampon/omnibox:beta
+lampon/omnibox:v3.2.1-beta.1
